@@ -334,5 +334,7 @@
     });
   </script>
 </body>
+ <footer><h1>made with ❤️ by ragini 😊</h1></footer>
+
 </html>
 
