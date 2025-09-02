@@ -333,8 +333,11 @@
       }
     });
   </script>
+  <footer>
+    <p class="text-center text-gray-700 mt-4">By ragini❤️</p>
+  </footer>
 </body>
- <footer><h1>made with ❤️ by ragini 😊</h1></footer>
+ 
 
 </html>
 
