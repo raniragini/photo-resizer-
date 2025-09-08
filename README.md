@@ -1,4 +1,4 @@
-# photo-resizer- 
+# photo-resizer
 <!DOCTYPE html>
 <html lang="en">
 <head>
